@@ -1,2 +1,2 @@
 # gonyaa
-nyaa anime torrent tracker access library for golfing
+nyaa anime torrent tracker access library for golang
